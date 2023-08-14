@@ -1,0 +1,977 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\1670Asm.bundle.scp.css",
+      "PackagePath": "staticwebassets\\1670Asm.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\bootstrap.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\jquery.DonutWidget.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.DonutWidget.min.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\jquerysctipttop.css",
+      "PackagePath": "staticwebassets\\css\\jquerysctipttop.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\css\\linearicons.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\main.map",
+      "PackagePath": "staticwebassets\\css\\main.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\css\\theme\\pages.css",
+      "PackagePath": "staticwebassets\\css\\theme\\pages.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\img\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\b1.jpg",
+      "PackagePath": "staticwebassets\\img\\b1.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\b2.jpg",
+      "PackagePath": "staticwebassets\\img\\b2.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\b3.jpg",
+      "PackagePath": "staticwebassets\\img\\b3.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\b4.jpg",
+      "PackagePath": "staticwebassets\\img\\b4.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\b5.jpg",
+      "PackagePath": "staticwebassets\\img\\b5.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\b6.jpg",
+      "PackagePath": "staticwebassets\\img\\b6.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\c1.jpg",
+      "PackagePath": "staticwebassets\\img\\c1.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\c2.jpg",
+      "PackagePath": "staticwebassets\\img\\c2.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\c3.jpg",
+      "PackagePath": "staticwebassets\\img\\c3.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\f1.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\f2.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\fact-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\fact-bg.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\header-bg.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\header-img.png",
+      "PackagePath": "staticwebassets\\img\\header-img.png"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\p1.jpg",
+      "PackagePath": "staticwebassets\\img\\p1.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\p2.jpg",
+      "PackagePath": "staticwebassets\\img\\p2.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\p3.jpg",
+      "PackagePath": "staticwebassets\\img\\p3.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\p4.jpg",
+      "PackagePath": "staticwebassets\\img\\p4.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\p5.jpg",
+      "PackagePath": "staticwebassets\\img\\p5.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\p6.jpg",
+      "PackagePath": "staticwebassets\\img\\p6.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\signature.png",
+      "PackagePath": "staticwebassets\\img\\signature.png"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\t1.png",
+      "PackagePath": "staticwebassets\\img\\t1.png"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\t2.png",
+      "PackagePath": "staticwebassets\\img\\t2.png"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\t3.png",
+      "PackagePath": "staticwebassets\\img\\t3.png"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\easing.min.js",
+      "PackagePath": "staticwebassets\\js\\easing.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\hoverIntent.js",
+      "PackagePath": "staticwebassets\\js\\hoverIntent.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\js\\parallax.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\slick.js",
+      "PackagePath": "staticwebassets\\js\\slick.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\superfish.js",
+      "PackagePath": "staticwebassets\\js\\superfish.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\superfish.min.js",
+      "PackagePath": "staticwebassets\\js\\superfish.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_navbar-align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_navbar-align.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\scss\\main.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\theme\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\theme\\.DS_Store"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\theme\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_elements.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\theme\\_flexbox.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_flexbox.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\theme\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_footer.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\theme\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_header.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\theme\\_home.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_home.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\theme\\_reset.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_reset.scss"
+    },
+    {
+      "Id": "D:\\GreenCode\\New folder\\1670Asm\\1670Asm\\wwwroot\\scss\\theme\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_variables.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.1670Asm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.1670Asm.props",
+      "PackagePath": "build\\1670Asm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.1670Asm.props",
+      "PackagePath": "buildMultiTargeting\\1670Asm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.1670Asm.props",
+      "PackagePath": "buildTransitive\\1670Asm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
